@@ -1,7 +1,7 @@
 # Password Generator
 
 This mini project focuses on creating an application that can generate a random password utilizing dynamically updated HTML, CSS and Javascript.
-It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+It also features a clean and polished user interface that is responsive, meaning that it adapts to multiple screen sizes.
 
 # Application Functionality
 
